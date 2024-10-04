@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sumário/1. Sumário Base de Dados II/Sumário.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sumário/1. Sumário Base de Dados II/Sumário.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sumário/1. Sumário Base de Dados II/Sumário.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sumário/1. Sumário Base de Dados II/Sumário.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "36a504d6771f0f76",
   "lastOpenFiles": [
+    "Sumário/1. Sumário Base de Dados II/Sumário.md",
     "README.md",
     "Sumário/Funções/Funções.md",
-    "Sumário/1. Sumário Base de Dados II/Sumário.md",
     "Sumário/Funções",
     "Sumário/Arquitetura interna do SGBD/Exercícios.md",
     "Pasted image 20241003201721.png",
