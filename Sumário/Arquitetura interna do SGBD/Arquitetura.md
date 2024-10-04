@@ -1,0 +1,4 @@
+- A arquitetura do SGBD é composta por vários componentes:
+	- Gerenciador de Armazenamento
+	- Gerenciador de Buffer
+	- Gerenciador de transações e Controle de Concorrência
