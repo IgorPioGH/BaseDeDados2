@@ -1,4 +1,4 @@
-# Material de Engenharia de Software - USP-RP
+# Material de Base de Dados 2 - USP-RP
 - Para estudo apenas
 - Nem tudo o que está escrito aqui é de minha autoria
 
